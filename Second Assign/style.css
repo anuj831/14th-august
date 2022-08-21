@@ -1,0 +1,67 @@
+.box{
+    height: 1200px;
+    width: 100%;
+    background-color: silver;
+    
+    
+    }
+    .box1{
+        height:500px;
+        width: 100%;
+        background-color: white;
+    }
+    .box2{
+        height:500px;
+        width: 100%;
+        background-color: aqua;
+        margin-top: 200px;;
+    }
+    .round1{
+        height: 100px;
+        width:100px;
+        background-color: maroon;
+        float: left;
+       
+        border-radius: 50%;
+    }
+    .round2{
+        height: 80px;
+        width:80px;
+       
+        background-color: blue;
+        float: left;
+       
+        border-radius: 50%;
+    }
+    .round3{
+        height: 60px;
+        width:60px;
+        background-color: blueviolet;
+        float: left;
+       
+        border-radius: 50%;
+    }
+    .round4{
+      
+        background-color: black;
+        float: left;
+        height: 40px;
+        width:40px;
+        border-radius: 50%;
+    }
+    .round5{
+        height: 80px;
+        width:80px;
+        background-color: skyblue;
+       
+    
+        border-radius: 50%;
+    }
+    .round6{
+        height: 80px;
+        width:80px;
+        background-color:red;
+        
+      
+        border-radius: 50%;
+    }
